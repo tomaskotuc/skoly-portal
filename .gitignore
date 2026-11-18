@@ -1,0 +1,9 @@
+/*
+!/.gitignore
+!/README.md
+!/plugins/
+/plugins/*
+!/plugins/skoly-import/
+!/themes/
+/themes/*
+!/themes/skoly-portal/
