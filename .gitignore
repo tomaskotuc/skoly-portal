@@ -7,3 +7,5 @@
 !/themes/
 /themes/*
 !/themes/skoly-portal/
+!/plugins/secure-custom-fields/
+!/portal.sql
